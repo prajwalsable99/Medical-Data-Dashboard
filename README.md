@@ -4,6 +4,9 @@
 This repository provides tools and a web application to analyze medical data, visualize patient vitals, and predict health risks using machine learning. The project aims to deliver an efficient solution for monitoring, analyzing, and predicting patient health status based on vital signs.
 
 ---
+![Dashboard](https://github.com/user-attachments/assets/322cd7d1-7dd0-40ef-b27f-9a1debe37e1a)
+
+---
 
 ## **Directory Structure**
 ```
